@@ -1,1 +1,1 @@
-# Sonar_Based_AUV
+# Sonar-Based AUV Navigation and Mapping
