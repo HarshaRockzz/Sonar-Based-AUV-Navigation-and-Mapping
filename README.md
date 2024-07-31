@@ -27,7 +27,7 @@ This project focuses on developing an Autonomous Underwater Vehicle (AUV) capabl
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/sonar-auv-navigation.git
+git clone https://github.com/HarshaRockzz/Sonar-Based-AUV-Navigation-and-Mapping.git
 cd sonar-auv-navigation
 pip install -r requirements.txt
 ```
